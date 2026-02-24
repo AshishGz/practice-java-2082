@@ -1,0 +1,5 @@
+1,MoMo,120
+2,Chowmein,150
+3,Fried Rice,180
+4,Burger,200
+5,Coke,50
